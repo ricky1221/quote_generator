@@ -8,7 +8,7 @@ let favoriteActivity = "Gaming"
 
 // 3. Assign the favoritePlace variable your favorite place
 // I.e. city, mountain, pub, forrest, beach, Manhattan, etc.
-let favoritePlace = "Comp Hub International x MPSPC"
+let favoritePlace = "Mountain Province State Polytechnic College"
 
 // 4. Configure the AI by setting a temperature from 0 to 1
 // The higher temperature, the more random & experimental output
